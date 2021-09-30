@@ -1,2 +1,2 @@
-# Car-Price-Prediction
+# Car-Price-Prediction-1
 The price of a car depends on a lot of factors like the goodwill of the brand of the car, features of the car, horsepower and the mileage it gives and many more. If one ignores the brand of the car, a car manufacturer primarily fixes the price of a car based on the features it can offer a customer. The dataset I’m using here to train a car price prediction model was downloaded from Kaggle. It contains data about all the main features that contribute to the price of a car.
